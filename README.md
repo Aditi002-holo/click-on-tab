@@ -8,5 +8,7 @@ Navigating through different tabs
 - Learned about 'data-id' attribute and 'dataset' DOM property
 - add() & remove() methods
 
-## [Solution URL](https://aditi002-holo.github.io/click-on-tab/)
+## Solution URL
+
+- [click-on-tab](https://aditi002-holo.github.io/click-on-tab/)
 
